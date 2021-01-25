@@ -1,6 +1,6 @@
 # Clean Juice
 
-Website with Parallax effect created for studying purpose.
+Website with Parallax effect created for studying purposes.
 
 ## Live Demo
 
